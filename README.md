@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/yedukrishnan6" target="blank"><img src="https://img.shields.io/twitter/follow/yedukrishnan6?logo=twitter&style=for-the-badge" alt="yedu" /></a> </p>
 
-- 🌱 I’m currently learning **REACT,IONIC**
+- 🌱 I’m currently learning **REACT**
+
+- 👨‍💻  **UI Developer**
 
 - 👨‍💻 [https://yedu.is-a.dev/](https://yedu.is-a.dev/)
 
