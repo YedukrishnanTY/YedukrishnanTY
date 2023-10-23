@@ -11,7 +11,7 @@
 
 - 👨‍💻  **UI Developer**
 
-- 👨‍💻 [https://yedu.is-a.dev/](https://yedu.is-a.dev/)
+- ⚙️ [https://yedu.is-a.dev/](https://yedu.is-a.dev/)
 
 - 📫 How to reach me **yedu345@gmail.com**
 
